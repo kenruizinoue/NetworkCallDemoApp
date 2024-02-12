@@ -6,7 +6,7 @@
 
 ## Medium Article
 
-This project is accompanied by a Medium article titled "Android Compose Project with Retrofit, Pull-to-Refresh, Flow State & Hilt". You can read the article [here]().
+This project is accompanied by a Medium article titled "Android Compose Project with Retrofit, Pull-to-Refresh, Flow State & Hilt". You can read the article [here](https://medium.com/deuk/master-network-calls-and-modern-ui-in-android-compose-guide-to-the-networkcalldemoapp-4b59f80e1216).
 
 ## Overview
 
